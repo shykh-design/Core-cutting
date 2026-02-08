@@ -1,2 +1,20 @@
-# Core-cutting
-FINO International L.L.C is a professional Dubai-based web project for a technical services firm. Built with HTML5 and CSS3, it features a responsive service portfolio (Core Cutting, GPR Scanning), transparent pricing tables, and a step-by-step "About" process. Includes WhatsApp lead generation and floating contact icons.
+# 🏗️ Core Cutting Services Website
+
+### 📝 Overview
+This repository contains the source code for a professional website detailing **Core Cutting** services. We specialize in precision drilling for concrete structures.
+
+### 🛠️ Key Services
+*   **Concrete Core Drilling:** Creating precise openings for utilities (HVAC, plumbing, electrical).
+*   **Structural Sampling:** Extracting core samples for material testing.
+*   **Vibration-Free Cutting:** Ensuring minimal structural impact during operations.
+
+### 🚀 Technologies Used
+*   HTML5
+*   CSS3
+*   GitHub Pages
+
+## 📞 Contact Information
+*   **Company/Project Lead:** Abdul Saboor
+*   **Email:** abdulsaboorshaikh3432608@gmail.com
+  
+
